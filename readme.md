@@ -6,6 +6,12 @@
 
 Have fun! :tada:
 
+## Install
+
+```sh
+npm install -g mincmp
+```
+
 ## Example
 
 ```sh
