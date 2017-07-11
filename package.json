@@ -1,0 +1,23 @@
+{
+  "name": "mincmp",
+  "version": "1.0.0",
+  "description": "Compare npm package source files minimaps",
+  "main": "index.js",
+  "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh/)",
+  "license": "MIT",
+  "repository": "ngryman/mincmp",
+  "bin": {
+    "mincmp": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "filenamify-url": "^1.0.0",
+    "got": "^7.1.0",
+    "image-size": "^0.6.0",
+    "jimp": "^0.2.28",
+    "meow": "^3.7.0",
+    "pageres": "^4.5.0"
+  }
+}
