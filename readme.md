@@ -1,5 +1,7 @@
 # mincmp 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/mincmp.svg)](https://greenkeeper.io/)
+
 > Compare npm package source files minimaps
 
 `mincmp` is one of those useless tool that allows you to compare the minimap of several package source files published on `npm`. It generates a `result.png` image with the aggregated source maps.
