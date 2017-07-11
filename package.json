@@ -1,6 +1,6 @@
 {
   "name": "mincmp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compare npm package source files minimaps",
   "main": "index.js",
   "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh/)",
